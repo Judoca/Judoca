@@ -5,8 +5,9 @@
     <img src="resources/welcome.gif" alt="Welcome GIF" width="125" height="125" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+I'm+Justin!;+a+Computer+Engineering+Student)
-
+<p align="center">
+    ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+I'm+Justin!;+A+Computer+Engineering+Student)
+</p>
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=judoca&show_icons=true&theme=radical)
 
