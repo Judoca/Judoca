@@ -1,1 +1,1 @@
-![Welcome Banner]("resources/welcome.gif")
+![Welcome](resources/welcome.gif)
