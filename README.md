@@ -17,5 +17,3 @@
 <!-- Others -->
 ![Visitors](https://komarev.com/ghpvc/?username=judoca&color=blue)
 <!-- ![Stars](https://img.shields.io/github/stars/judoca?style=social) -->
-![snake gif](https://github.com/judoca/judoca/blob/output/github-contribution-grid-snake.svg)
-
